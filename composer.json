@@ -16,7 +16,7 @@
             "Ccasanovas\\S3UploadSDK\\": "src"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload-dev": {
         "psr-4": {
