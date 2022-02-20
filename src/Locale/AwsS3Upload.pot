@@ -1,0 +1,56 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-09-26 11:55-0300\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Model/Behavior/AwsS3UploadBehavior.php:30
+msgid "AwsS3.key setting missing"
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:31
+msgid "AwsS3.secret setting missing"
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:32
+msgid "AwsS3.region setting missing"
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:33
+msgid "AwsS3.bucket setting missing"
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:36
+msgid "AwsS3.base_url setting missing"
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:79
+msgid "Invalid file type. Please upload images only (gif, png, jpg)."
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:88;93
+msgid "This file is too large"
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:98
+msgid "This file could not be uploaded completely"
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:103
+msgid "There was no file found to upload"
+msgstr ""
+
+#: Model/Behavior/AwsS3UploadBehavior.php:108
+msgid "This upload failed"
+msgstr ""
+
